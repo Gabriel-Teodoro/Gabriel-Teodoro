@@ -1,0 +1,3 @@
+- 👋 Olá, me chamo @Gabriel-Teodoro
+- 👀 Estudante de Sistema De Informação, busco oportunidade para adquirir experiência em (com) Programação PHP, JAVA, e C#.
+- 🌱 Atualmento estou aprendendo Js com NodeJs.
