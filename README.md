@@ -25,9 +25,9 @@ Sou um desenvolvedor dedicado, apaixonado por inovação e sempre em busca da ex
 
 ## 📊 GitHub Stats
 
-![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Teodoro&show_icons=true&theme=radical)
+![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Teodoro&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Teodoro&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Teodoro&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
