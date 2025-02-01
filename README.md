@@ -32,3 +32,5 @@ Sou um desenvolvedor dedicado, apaixonado por inovação e sempre em busca da ex
 ---
 
 💬 Quer trocar uma ideia? Me chame! 😊
+
+📌 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gabriel-santos-programador/)!
